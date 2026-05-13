@@ -38,11 +38,18 @@ The process simulates an industrial chemical mixing and dosing system where wate
 
 ## Repository Structure
 
-- `docs/` — Functional specifications and engineering documentation
-- `tia-portal/` — TIA Portal project archives and exports
-- `reports/` — PDF reports and printouts
-- `simulation/` — Simulation screenshots and validation
-- `media/` — Project images and LinkedIn assets
+- `docs/functional-specification/` — P&ID interpretation and functional specification
+- `docs/hardware-selection/` — Siemens S7-1500 hardware and I/O selection
+- `docs/implementation/` — TIA Portal project archive and program printout
+- `docs/simulation/` — SIMIT and PLCSIM simulation validation material
+
+## Key Deliverables
+
+- Functional specification PDF
+- TIA Selection Tool hardware order list PDF
+- TIA Portal project archive in `.zap16` format
+- TIA Portal program print PDF
+- SIMIT/PLCSIM simulation evidence
 
 ## Author
 
